@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Keiyasu Kaidao",
+    "Name": "Keiclusive Assistant",
+    "InternalName": "KeiclusiveAssistant",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "Description": "Venue tools for Keilusional staff: open/close the venue with Discord announcements, guest list and stamp cards, staff accounts and roles.",
+    "Punchline": "Staff assistant for Keilusional.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Keiyasu-Kaidao/Keiclusive",
+    "Tags": [
+      "venue",
+      "discord",
+      "staff"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": false,
+    "LastUpdate": 1790948520,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/latest.zip"
+  }
+]
