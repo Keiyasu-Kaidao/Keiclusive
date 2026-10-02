@@ -19,9 +19,10 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "AcceptsFeedback": false,
-    "LastUpdate": 1790948520,
+    "LastUpdate": 1790949048,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/latest.zip"
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Keiyasu-Kaidao/Keiclusive/main/icon.png"
   }
 ]
